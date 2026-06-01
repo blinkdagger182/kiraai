@@ -26,10 +26,10 @@ export default function Home() {
                 Now available on iOS
               </div>
               <h1 className="text-4xl md:text-5xl font-semibold tracking-tight mb-6 text-balance">
-                Know where your money goes
+                Roast your personal finance
               </h1>
               <p className="text-lg text-muted-foreground mb-8 max-w-md mx-auto lg:mx-0 leading-relaxed">
-                Kira is your AI-powered financial companion. Ask questions, track spending, and get personalized insights to make smarter money decisions.
+                Kira tells you exactly where your money went — and why that&apos;s probably a problem. No sugar-coating, just clarity.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
                 <Button size="lg" className="h-12 px-6">
